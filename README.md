@@ -1,5 +1,5 @@
-<!-- <h1 align="center">Hi! I'm Nguyễn Viết Mạnh**, A passionate **Full-stack Developer** from the Earth 🌍.</h1> -->
-<h1> Hi! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> I'm Nguyễn Viết Mạnh</h1>
+<!-- <h1 align="center">Hi! I'm Nguyen Viet Manh**, A passionate **Full-stack Developer** from the Earth 🌍.</h1> -->
+<h1> Hi! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> I'm Nguyen Viet Manh</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=A+passionate+Full-stack+Developer+from+the+Earth+%F0%9F%8C%8D" alt="Typing SVG" /></a>
 
 <div align="center">
